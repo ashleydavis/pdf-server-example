@@ -8,9 +8,14 @@ Before running make sure you have bower installed as follows:
 
     npm install -g bower
 
-After cloning please install modules:
+You can clone this repo as follows:
 
     git clone https://github.com/ashleydavis/pdf-server-example
+
+Or you can [download the zip file](https://github.com/ashleydavis/pdf-server-example/archive/master.zip) and unpack it on your PC.
+
+After cloning please install modules:
+
     cd pdf-server-example
     npm install
     cd public
