@@ -2,7 +2,7 @@
 
 This is an example Node.js server that can download a PDF file to the front-end web app.
 
-Before running make sure you have Node.js and npm installed.
+Before running make sure you [download and install Node.js and npm installed](https://nodejs.org/en/download/).
 
 Before running make sure you have bower installed as follows:
 
@@ -14,7 +14,7 @@ After cloning please install modules:
     cd pdf-server-example
     npm install
     cd public
-    power install
+    bower install
 
 You you can run it like so:
 
